@@ -1,2 +1,2 @@
 # WELLCOME
-Wellcome to my GitHub account. 
+Wellcome to my GitHub account.
