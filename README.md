@@ -1,3 +1,3 @@
 # WELLCOME
 Wellcome to my GitHub account.
-I am 
+I am student of cs
